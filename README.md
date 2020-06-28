@@ -1,4 +1,4 @@
-# predict_activities_from_smart_devices
+# Predict human activites from smart devices
 Predicting human activities from sensor data in smartphones and smartwatches <br>
 In most smart devices, there is a health app that determines the metrics that matter to users, for example: how far and how many steps users have walked in a certain time… and more information about the users’ health data.<br>
 How does the app know that the users are walking or not walking to start counting steps? How does machine learning work to detect activity? <br>
