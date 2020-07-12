@@ -8,4 +8,4 @@ There are 2 different approaches:<br>
 1.Using a traditional classifier on label data from a fixed-length window of 10 seconds.<br>
 2.Using 1D Convolutional Neural Network<br>
 Both approaches in this project are feature approaches. <br>
-For a complete time series approach, using LSTM or HMM model is a better approach, which receives the entire series as inputs, rather than window values. And that is my future work.
+For a complete time series approach, I plan to use LSTM or HMM model which is a better approach, which receives the entire series as inputs, rather than window values. And that is my future work.
